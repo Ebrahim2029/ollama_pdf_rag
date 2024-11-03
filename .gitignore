@@ -6,6 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
+pyvenv.cfg
+Scripts
+Lib
+Include
+
 # Distribution / packaging
 .Python
 build/
